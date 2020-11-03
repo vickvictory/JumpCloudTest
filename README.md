@@ -18,4 +18,4 @@ curl: (7) Failed to connect to 127.0.0.1 port 8088: Connection refused
 Vs-iMac:broken-hashserve viks$ curl -X POST -d ‘shutdown’ http://127.0.0.1:8088/hash
 curl: (7) Failed to connect to 127.0.0.1 port 8088: Connection refused
 
-Operating/CLI system used - MacOSX Cataline 10.15.7, Mac Terminal.
+Operating/CLI system used - MacOSX Catalina 10.15.7, Mac Terminal.
